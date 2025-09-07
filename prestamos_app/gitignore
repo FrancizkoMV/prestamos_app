@@ -1,0 +1,12 @@
+# Archivos de entorno virtual
+venv/
+*.pyc
+
+# Base de datos de Django
+db.sqlite3
+
+# Archivos específicos de tu sistema operativo
+.DS_Store
+
+# Claves secretas de Django
+*.env
